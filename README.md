@@ -11,3 +11,4 @@ Here are some ideas to get you started
 - 🔭 I’m currently working on projects in AI,data analysis and machine learning.
 - 🌱 I’m currently learning generative AI.
 - 👯 I’m looking to collaborate on on impactful AI and data projects.
+- 🔎 Reach me: batoulshrara19@gmail.com
